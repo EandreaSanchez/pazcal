@@ -1,0 +1,17 @@
+{
+  "3B1B3207": {
+    "emocion": "ALEGRIA",
+    "audio": "008.mp3",
+    "color": "AMARILLO"
+  },
+  "4FA7308B": {
+    "emocion": "TRISTEZA",
+    "audio": "007.mp3",
+    "color": "AZUL"
+  },
+  "7B711207": {
+    "emocion": "SORPRESA",
+    "audio": "004.mp3",
+    "color": "NARANJA"
+  }
+}
