@@ -1,0 +1,31 @@
+{
+  "ALEGRIA": {
+    "color": "AMARILLO",
+    "rgb": [255,255,0]
+  },
+
+  "TRISTEZA": {
+    "color": "AZUL",
+    "rgb": [0,0,255]
+  },
+
+  "SORPRESA": {
+    "color": "NARANJA",
+    "rgb": [255,120,0]
+  },
+
+  "ENOJO": {
+    "color": "ROJO",
+    "rgb": [255,0,0]
+  },
+
+  "MIEDO": {
+    "color": "MORADO",
+    "rgb": [180,0,255]
+  },
+
+  "DESAGRADO": {
+    "color": "VERDE",
+    "rgb": [0,255,0]
+  }
+}
