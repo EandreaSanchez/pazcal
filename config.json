@@ -1,0 +1,7 @@
+{
+  "volumen": 18,
+  "modoHistorias": "ALEATORIO",
+  "tiempoApagado": 600,
+  "cantidadHistorias": 10,
+  "cantidadSonidosRuidoBlanco": 5
+}
