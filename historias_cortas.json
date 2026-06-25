@@ -1,0 +1,37 @@
+{
+  "ALEGRIA": [
+    "M1-Alegria-1.mp3",
+    "M1-Alegria-2.mp3",
+    "M1-Alegria-3.mp3"
+  ],
+
+  "TRISTEZA": [
+    "M1-Tristeza-1.mp3",
+    "M1-Tristeza-2.mp3",
+    "M1-Tristeza-3.mp3"
+  ],
+
+  "SORPRESA": [
+    "M1-Sorpresa-1.mp3",
+    "M1-Sorpresa-2.mp3",
+    "M1-Sorpresa-3.mp3"
+  ],
+
+  "ENOJO": [
+    "M1-Rabia-1.mp3",
+    "M1-Rabia-2.mp3",
+    "M1-Rabia-3.mp3"
+  ],
+
+  "MIEDO": [
+    "M1-Miedo-1.mp3",
+    "M1-Miedo-2.mp3",
+    "M1-Miedo-3.mp3"
+  ],
+
+  "DESAGRADO": [
+    "M1-Desagrado-1.mp3",
+    "M1-Desagrado-2.mp3",
+    "M1-Desagrado-3.mp3"
+  ]
+}
